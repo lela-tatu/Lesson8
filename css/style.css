@@ -27,6 +27,7 @@ header{
     width: 801px;
 }
 
+/*wrapper-parent box*/
 
 .wrapper{
        display: flex;
@@ -34,10 +35,7 @@ header{
        padding: 20px;
        
 }
-.section2{
-    display: flex;
-    justify-content: center;
-}
+/*div-child boxes  */
 
 .container{
     width: 370px;
@@ -58,9 +56,15 @@ header{
     background-color:#5b4490 ;
     width: 370px;
     height: 451px;
-    
-    
+        
 }
+
+
+.section2{
+    display: flex;
+    justify-content: center;
+}
+
 .container4{
     background-color: #4b7ad6;
     width: 370px;
