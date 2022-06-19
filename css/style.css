@@ -37,6 +37,7 @@
 
 .wrapper{
     width: 1300px;
+    height: auto;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -46,6 +47,7 @@
 
 .section2{
     width: 1300px;
+    height: auto;
     display: flex;
     justify-content: center;
     align-items: center;
