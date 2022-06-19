@@ -1,12 +1,20 @@
 /*header*/
+
+
 .header{
     width: 1300px;
     height: auto;
+    
 }
+.nav{ 
 
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+}
 .ul{
     display: flex;
-    justify-content: flex-end;
+    padding-right: 30px ;   
     
 }
 .li{
@@ -17,11 +25,11 @@
 }
 .logo{
     vertical-align: middle;
-    padding-left: 10% ;
-
+    padding-left: 10%;
+    
 }
 .img1{
-    width: 500px;
+    width: 550px;
 }
 
 .img{
@@ -44,8 +52,7 @@
 
 .section{    
     width: 1300px;
-    
-    
+       
 }
 .section2{
     
